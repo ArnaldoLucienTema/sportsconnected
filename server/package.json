@@ -46,7 +46,7 @@
     "scc-broker-client": "^6.1.0",
     "serve-static": "^1.13.2",
     "sinon": "^7.3.2",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.1.1",
     "socket.io-emitter": "^3.1.1",
     "socketcluster": "^14.3.3",
